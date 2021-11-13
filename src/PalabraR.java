@@ -57,7 +57,6 @@ public class PalabraR {
             }
         }
         return rpta;
-
     }
     
     public static void Inicio() {

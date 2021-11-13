@@ -106,7 +106,7 @@ public class Editor extends JFrame implements ActionListener {
         //menu Analizar
         menuAna = new Menu();
         menuAnaCom = new MenuItem();
-        menuAna.setLabel("Analizar Lexico");
+        menuAna.setLabel("Analizador Lexico");
         menuAnaCom.setLabel("Compilar");
         menuAnaCom.addActionListener(this);
         menuAna.add(menuAnaCom);
